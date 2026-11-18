@@ -194,7 +194,7 @@ input[type=checkbox], input[type=checkbox]:focus {
 
 .icon-more-about {
     top: -120px;
-    left: -20px;
+    left: -80px;
     position: absolute;
     display: none;
     flex-direction: column;
